@@ -6,8 +6,6 @@ on:
     branches-ignore:
       - main
 
-  workflow_call:
-
 jobs:
   test:
     name: Build and Test
