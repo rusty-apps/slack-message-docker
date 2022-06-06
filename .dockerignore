@@ -1,0 +1,16 @@
+.gitignore
+.github/
+
+CHANGELOG*
+README*
+LICENSE
+Dockerfile*
+docker-compose.yml
+docker-password
+super-linter.log
+clippy.toml
+
+
+target/
+
+docker-env.txt
